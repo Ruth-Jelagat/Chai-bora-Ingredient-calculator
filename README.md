@@ -14,4 +14,4 @@ Chai-bora-Ingredient-calculator/
 │ └── fare.js # Estimates boda boda fare based on distance or conditions
 ├── mobileMoneyEstimator/
 │ └── fee.js # Calculates mobile money transaction fees
-└── README.md # Project overview and instructions
+└── README.md # Project overview and instruction
